@@ -25,3 +25,5 @@ Future Development
 ---------------------
 Currently, the back-end part of this website is under development. You can explore the current development progress and contribute to the project by visiting the [link](https://github.com/Slipum/react-delivery).
 
+In addition, you can also check out the design of the project on Figma by following this [link](https://www.figma.com/file/Mx7LsFPJH7u52pWdijtTmJ/React-Delivery?type=design&node-id=0%3A1&mode=design&t=X4P9DjPtgCVJEcAt-1). It provides an overview of the visual components and layout of the application.
+
