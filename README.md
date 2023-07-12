@@ -1,7 +1,7 @@
 Poject React Delivery HTML
 ======================
 
-This project is a web application for food delivery, developed using ReactJS 18, TypeScript, Redux Toolkit, React Router v6, and other technologies. It allows users to browse the menu, select and order various dishes, and track the status of their cart.
+This project is a web application for food delivery with a designed in Figma. It allows users to browse the menu, select and order various dishes, and track the status of their cart. In addition, you can also check out the design of the project on Figma by following this [link](https://www.figma.com/file/Mx7LsFPJH7u52pWdijtTmJ/React-Delivery?type=design&node-id=0%3A1&mode=design&t=X4P9DjPtgCVJEcAt-1). It provides an overview of the visual components and layout of the application.
 
 Functional Features
 --------------------------
@@ -24,6 +24,3 @@ The project consists of the following main components and files:
 Future Development
 ---------------------
 Currently, the back-end part of this website is under development. You can explore the current development progress and contribute to the project by visiting the [link](https://github.com/Slipum/react-delivery).
-
-In addition, you can also check out the design of the project on Figma by following this [link](https://www.figma.com/file/Mx7LsFPJH7u52pWdijtTmJ/React-Delivery?type=design&node-id=0%3A1&mode=design&t=X4P9DjPtgCVJEcAt-1). It provides an overview of the visual components and layout of the application.
-
