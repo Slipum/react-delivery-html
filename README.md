@@ -23,4 +23,4 @@ The project consists of the following main components and files:
 
 Future Development
 ---------------------
-Currently, the back-end part of this website is under development. You can explore the current development progress and contribute to the project by visiting the [link](https://github.com/Slipum/react-delivery).
+Currently, the website is under development with a transition to the React framework. You can explore the current progress of the project and contribute by visiting the [link](https://github.com/Slipum/react-delivery).
